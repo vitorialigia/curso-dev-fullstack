@@ -1,0 +1,31 @@
+body {
+background: rgb(248, 214, 220);
+color: rgb(19, 13, 13);
+font-family: 'Raleway', sans-serif;
+}
+.container{
+width: 900px;
+margin:auto
+}
+.foto-principal {
+    width: 200px;
+    border-radius: 50%;
+    border: 5px  solid rgb(160, 153, 153);
+    margin: 30px 30px 30px 30px;
+    padding: 8px;
+}
+
+h1{
+    margin-bottom: 0;
+    letter-spacing: 0px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+  margin-top:0;
+  font-style: italic;
+  color: rgb(66, 63, 63);
+  font-weight: 100;
+    letter-spacing: -1px;
+}

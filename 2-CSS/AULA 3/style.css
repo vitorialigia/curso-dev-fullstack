@@ -1,0 +1,12 @@
+body {
+background-image:url(tecnologia.jpg);
+background-attachment: fixed;
+
+}
+
+p {
+    color: rgb(216, 209, 209);
+}
+.foto{
+    width: 200px;
+}

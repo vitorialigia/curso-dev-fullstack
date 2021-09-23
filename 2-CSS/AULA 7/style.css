@@ -1,0 +1,21 @@
+body {
+background: pink;
+}
+p {
+    color: rgb(97, 7, 7);
+}
+.foto-principal {
+    width: 200px;
+}
+.vermelho {
+color: red;
+}
+h3{
+    color:orangered
+}
+.foto-principal {
+    border-radius: 50%;
+    border: 5px  solid #ffff;
+    margin: 30px 30px 30px 30px;
+    padding:10px
+}
